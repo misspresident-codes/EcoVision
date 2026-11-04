@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="public/hero.jpg" width="100%" alt="EcoVision camera trap prototype and dashboard"/>
+<img src="public/3cfcee89-bd9c-49b9-a115-03827540349c.jpg" width="100%" alt="EcoVision camera trap prototype and dashboard"/>
 
 <br/><br/>
 
